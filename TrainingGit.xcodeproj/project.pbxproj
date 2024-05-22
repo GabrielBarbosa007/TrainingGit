@@ -14,6 +14,7 @@
 		C898C0422BFE982500EF526F /* TrainingGitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C898C0412BFE982500EF526F /* TrainingGitTests.swift */; };
 		C898C04C2BFE982500EF526F /* TrainingGitUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C898C04B2BFE982500EF526F /* TrainingGitUITests.swift */; };
 		C898C04E2BFE982500EF526F /* TrainingGitUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C898C04D2BFE982500EF526F /* TrainingGitUITestsLaunchTests.swift */; };
+		C898C05B2BFEA13B00EF526F /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C898C05A2BFEA13B00EF526F /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		C898C0472BFE982500EF526F /* TrainingGitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TrainingGitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C898C04B2BFE982500EF526F /* TrainingGitUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrainingGitUITests.swift; sourceTree = "<group>"; };
 		C898C04D2BFE982500EF526F /* TrainingGitUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrainingGitUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C898C05A2BFEA13B00EF526F /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				C898C0322BFE982300EF526F /* ContentView.swift */,
 				C898C0342BFE982500EF526F /* Assets.xcassets */,
 				C898C0362BFE982500EF526F /* Preview Content */,
+				C898C05A2BFEA13B00EF526F /* HomeView.swift */,
 			);
 			path = TrainingGit;
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C898C05B2BFEA13B00EF526F /* HomeView.swift in Sources */,
 				C898C0332BFE982300EF526F /* ContentView.swift in Sources */,
 				C898C0312BFE982300EF526F /* TrainingGitApp.swift in Sources */,
 			);
