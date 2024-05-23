@@ -17,6 +17,7 @@ struct ContentView: View {
             Text("Organizations!!!!")
             Text("frefrf")
         }
+        background(Color.red)
         .padding()
     }
 }
