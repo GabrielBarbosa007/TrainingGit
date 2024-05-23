@@ -35,6 +35,7 @@ struct HomeView: View {
             Text("HomeViewObjx")
         }
         Button("Click-m") {
+            print("Serei clicado toda hora ... ")
         }
         
         Rectangle()
