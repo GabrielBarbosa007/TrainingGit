@@ -36,6 +36,8 @@ struct HomeView: View {
         }
         Button("Click-m") {
         }
+        
+        Rectangle()
         .padding()
         .background(Color.red)
     }
